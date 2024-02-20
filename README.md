@@ -1,2 +1,2 @@
 # sucharitha-files
-Sample documents for interviews.
+Sample documents for interveiws.
