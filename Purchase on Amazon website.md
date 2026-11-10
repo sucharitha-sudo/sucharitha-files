@@ -2,6 +2,8 @@
 
 ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png)
 
+<img src="hospital.png" alt="Hospital Image" width="400">
+
 1. Go to https://www.amazon.in website.
 2. Already have an account, click <B>Sign in</B>.
 3. If you are new customer, enter your name, mobile number, password, and click <b>Verify mobile number</b>.
