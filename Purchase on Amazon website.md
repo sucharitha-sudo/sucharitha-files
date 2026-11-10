@@ -1,6 +1,12 @@
 # How to complete a purchase on the Amazon website
 
 <!-- ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png) -->
+<!-- Below we are using HTML syntax as Markdown does not support certain elements:
+- Center-aligning images.
+- Specifying image width.
+- Controlling certain layout elements.
+- Hiding content using comments.
+HTML provides these additional formatting capabilities.  -->
 
 <p align="center">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" alt="Amazon shopping" width="400">
