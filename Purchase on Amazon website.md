@@ -2,7 +2,7 @@
 
 <!-- ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png) -->
 
-<!-- Below we are using HTML syntax as Markdown does not support certain elements:
+<!-- HTML syntax is used below for aligning the image to the center as Markdown does not support certain elements:
 - Center-aligning images
 - Specifying image width
 - Controlling certain layout elements
