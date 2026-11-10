@@ -2,7 +2,9 @@
 
 ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png)
 
+<p align="center">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" alt="Amazon shopping" width="400">
+</p>
 
 1. Go to https://www.amazon.in website.
 2. Already have an account, click <B>Sign in</B>.
