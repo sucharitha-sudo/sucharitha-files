@@ -1,12 +1,14 @@
 # How to complete a purchase on the Amazon website
 
 <!-- ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png) -->
+
 <!-- Below we are using HTML syntax as Markdown does not support certain elements:
-- Center-aligning images.
-- Specifying image width.
-- Controlling certain layout elements.
-- Hiding content using comments.
-HTML provides these additional formatting capabilities.  -->
+- Center-aligning images
+- Specifying image width
+- Controlling certain layout elements
+- Hiding content using comments
+HTML provides these additional formatting capabilities. That's why GitHub supports certain HTML elements inside Markdown files. 
+When you write Markdown and HTML in a .md file, GitHub processes the content and converts the supported markup into HTML for display. -->
 
 <p align="center">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" alt="Amazon shopping" width="400">
