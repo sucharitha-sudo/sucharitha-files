@@ -9,10 +9,10 @@
 1. Go to https://www.amazon.in website.
 2. Already have an account, click <B>Sign in</B>.
 3. If you are new customer, enter your name, mobile number, password, and click <b>Verify mobile number</b>.
-4. Click <b>Deliver to</b>, enter valid Indian pincode, to check whether product can be delivered to your location or not.
-5. Select the product, and the product details are displayed on right pane including delivery date. 
+4. Click <b>Deliver to</b>, enter valid pin code, to check whether product can be delivered to your location or not.
+5. Select the product, then the product details are displayed on right pane including delivery date. 
 6. Click <B>Add to cart</B>  (if you want to add more products) or click <b>Buy now</b>.
-7. It navigates to billing page, select the mode of payment. Click <b>Credit card/Debit card</b> or <b>Gpay/Phonepe</b>.
+7. It navigates to billing page, select the mode of payment. Click <b>Credit card / Debit card</b> or <b>Gpay / Phonepe</b>.
 8. Click <b>Address</b>. Enter the address details.
 9. Once you receive the delivery date, click <b>Sign out</b>.
 
