@@ -4,7 +4,7 @@ During my teenage days, I was intrigued by the intentions and emotions of people
 
 Spirituality is knowing about yourself that you are a supreme being. Original nature of human being is blissfulness which is permanent, however we get attached to materialistic things which are temporary. We discriminate things based on comfort, look and feel, which are called desires. Desires make us slaves. Either we have to fulfill our desires or control our mind by practicing meditation. The vedantas teaches non-duality, called as advaitham, meaning everything is the same. 
 
-Some of the books that changed my life are:
+Some of the books that changed my life:
 
 |Book|Author|
 |---|---|
