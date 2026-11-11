@@ -15,5 +15,5 @@ I contributed to developing approximately 80 user manuals for the cloud platform
 - Software Setup and Configuration
 - Web Hosting and IIS Configuration
 
-Check out more work [Explore the Cloud Platform Knowledge Base](https://www.kamatera.com/knowledgebase/)
+Explore the publicly available Knowledge Base to see the documentation: [Kamatera Public Knowledge Base](https://www.kamatera.com/knowledgebase/))
 
