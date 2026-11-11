@@ -1,4 +1,12 @@
-My spiritual journey
+# My spiritual journey
+
+
+
+<p align="center">
+<img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" alt="Amazon shopping" width="400">
+</p>
+
+
 During my teenage days, I was intrigued by the intentions and emotions of people. As an ambivert, I enjoy being with people and also being alone. However, being alone made me introspect and my questions were answered when I started reading books on spirituality.
 Spirituality is knowing about yourself that you are a supreme being. Original nature of human being is blissfulness which is permanent, however we get attached to materialistic things which are temporary. We discriminate things based on comfort, look and feel, which are called desires. Desires make us slaves. Either we have to fulfill our desires or control our mind by practicing meditation. The vedantas teaches non-duality, called as advaitham, meaning everything is the same. 
 Some of the books that changed my life are:
