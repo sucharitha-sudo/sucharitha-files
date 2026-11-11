@@ -1,8 +1,14 @@
 <h1 align="center">My spiritual journey</h1>
 
-During my teenage days, I was intrigued by the intentions and emotions of people. As an ambivert, I enjoy being with people and also being alone. However, being alone made me introspect and my questions were answered when I started reading books on spirituality.
+During my teenage years, I was intrigued by the intentions and emotions of people. As an ambivert, I enjoy both being with people and also being alone. However, solitude gave me an opportunity to introspect and explore questions that crossed my mind. This introspection and curiosity led me to read books on spirituality, through which I began finding answers and understanding about myself and life.
 
-Spirituality is knowing about yourself that you are a supreme being. Original nature of human being is blissfulness which is permanent, however we get attached to materialistic things which are temporary. We discriminate things based on comfort, look and feel, which are called desires. Desires make us slaves. Either we have to fulfill our desires or control our mind by practicing meditation. The vedantas teaches non-duality, called as advaitham, meaning everything is the same. 
+Everyday, we experience the world with dualities such as good and bad, pain and pleasure, rich and poor, beautiful and ugly, and so on. We constantly differentiate these opposites, developing preferences what gives us pleasure and what causes pain. As a result, our happiness and sadness depend on external circumstances. We are all searching happiness in external things, where as spirituality helps us in discovering bliss inside us. 
+
+Spirituality is knowing about one's true self that you are a supreme being. Original nature of human being is blissfulness which is permanent, however we get attached to materialistic things which are temporary and constantly changing. We discriminate things based on comfort, look and feel, its value which are called desires. The problem is not having desires but depending on them completely for our happiness makes us slaves because desires are never ending. Through practices of meditation, introspection, and detachment we turn inwards and distinguish between what is permanent and what is temporary. In this process, we observe our thoughts and desires rather than being controlled by them.
+
+The vedantas teaches non-duality, called as advaitham, meaning "not two". It says that ultimate reality is one. 
+
+Meditation made me a calm and happy person. It made me think about life from a different perspective.
 
 Some of the books that changed my life:
 
@@ -12,4 +18,4 @@ Some of the books that changed my life:
 |Autobiography of a yogi|Paramahansa yogananda|
 |Apprenticed to a Himalayan Master|Shri M|
 
-My daily routine is I wake up at 3:30 a.m, do yoga for one hour, practice pranayama, and meditate for thirty minutes. I finish by 6:00 a.m and continue with daily chores. Meditation made me a calm and happy person. It made me think about life from a different perspective.
+
