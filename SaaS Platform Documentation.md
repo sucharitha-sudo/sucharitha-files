@@ -25,5 +25,6 @@ Tools & Technologies:
 * AI Assistant Platform: **Alltius**
 * Screen Capture & Documentation: **Snagit**
 * Project Management & Issue Tracking: **Jira**
+* CRM & Marketing Automation: **HubSpot**
 
 To learn more about the platform I contributed to documenting, visit: [Matchbook AI](https://www.matchbookai.com/)
