@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I worked on the Kamatera cloud platform that offers cloud-based services such as virtual servers, storage, networking, firewalls, load balancers, and virtual private clouds. It enables businesses and developers to deploy, configure, and manage their IT infrastructure through its cloud platform.
+I worked on documentation for client **Kamatera**, a cloud platform that offers cloud-based services such as virtual servers, storage, networking, firewalls, load balancers, and virtual private clouds. It enables businesses and developers to deploy, configure, and manage their IT infrastructure through its cloud platform.
 
 Kamatera maintains a publicly accessible Knowledge Base containing user manuals with step-by-step instructions to help customers understand, configure, and manage its cloud services.
 
