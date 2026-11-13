@@ -20,6 +20,7 @@ My documentation contributions included:
 Tools & Technologies: 
 
 * Documentation & Editing: **Visual Studio Code**
+* Documentation Generation: **Sphinx**
 * Version Control & Collaboration: **GitHub**
 * Diagramming & Visualization: **Draw.io**
 * AI Assistant Platform: **Alltius**
