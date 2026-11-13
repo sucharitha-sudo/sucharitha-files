@@ -22,7 +22,7 @@ Tools & Technologies:
 * Documentation & Editing: **Visual Studio Code**
 * Version Control & Collaboration: **GitHub**
 * Diagramming & Visualization: **Draw.io**
-* AI-powered Tools: **Alltius**
+* AI Assistant Platform: **Alltius**
 * Screen Capture & Documentation: **Snagit**
 * Project Management & Issue Tracking: **Jira**
 
