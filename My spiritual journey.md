@@ -1,7 +1,6 @@
 <h1 align="center">My spiritual journey</h1>
 
 <!-- ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png) -->
-
 <!-- HTML syntax is used below for aligning the image to the center as Markdown does not support certain elements:
 - Center-aligning images
 - Specifying image width
@@ -9,7 +8,6 @@
 - Hiding content using comments
 HTML provides these additional formatting capabilities. That's why GitHub supports certain HTML elements inside Markdown files. 
 When you write Markdown and HTML in a .md file, GitHub processes the content and converts the supported markup into HTML for display. -->
-
 
 <p align="center">
 <img src="spiritual journey.png" alt="Spiritual journey" width="800" height="200">
