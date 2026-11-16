@@ -41,11 +41,11 @@ This repository showcases my technical writing experience, documentation samples
 
 ## Personal Writing
 
-Apart from technical writing, I enjoy writing personal articles on experiences, observations, spirituality, and music.
+Apart from technical writing, I enjoy writing personal articles on experiences, observations, spirituality, and music. Feel free to explore these articles in the repository.
 
 ### Articles
 
-* Management in Hospitals
+* Management in hospitals
 * Trip to Goa
 * My spiritual journey
 * The Power of Music
