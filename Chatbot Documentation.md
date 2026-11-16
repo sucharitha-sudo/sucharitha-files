@@ -8,5 +8,5 @@ The documentation was designed to help users understand the chatbot creation pro
 
 ## Deliverables
 
-* User Guide: Developed a step-by-step user guide explaining how to create a chatbot using Google Dialogflow.
-* Video Script: Created a video script outlining the chatbot creation process to support visual learning and demonstrate the platform's functionality.
+* **User Guide**: Developed a step-by-step user guide explaining how to create a chatbot using Google Dialogflow.
+* **Video Script**: Created a video script outlining the chatbot creation process to support visual learning and demonstrate the platform's functionality.
