@@ -4,7 +4,7 @@
 
 I am a Technical Writer with 5+ years of experience in technical writing and content development, specializing in creating clear, user-friendly, and structured documentation for software applications and technology platforms.
 
-My experience spans SaaS applications, cloud platforms, API documentation, chatbots, and AI assistants. I collaborate with technical teams and subject matter experts to understand complex technical concepts and transform them into easy-to-understand documentation.Sample documents for interviews.
+My experience spans SaaS applications, cloud platforms, API documentation, chatbots, and AI assistants. I collaborate with technical teams and subject matter experts to understand complex technical concepts and transform them into easy-to-understand documentation.
 
 ## Areas of Expertise
 
