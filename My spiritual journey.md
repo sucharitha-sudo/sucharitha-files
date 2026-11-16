@@ -11,7 +11,7 @@ When you write Markdown and HTML in a .md file, GitHub processes the content and
 
 
 <p align="center">
-<img src="spiritual journey.png" alt="Spiritual journey" width="600" height="200">
+<img src="spiritual journey.png" alt="Spiritual journey" width="800" height="200">
 </p>
 
 During my teenage years, I was intrigued by the intentions and emotions of people. As an ambivert, I enjoyed both being with people and also being alone. However, solitude gave me an opportunity to introspect and explore questions that crossed my mind. This introspection and curiosity led me to read books on spirituality, through which I began finding answers and understanding about myself and life.
