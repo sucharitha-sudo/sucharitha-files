@@ -1,4 +1,17 @@
 <h1 align="center">My spiritual journey</h1>
+<!-- ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png) -->
+
+<!-- HTML syntax is used below for aligning the image to the center as Markdown does not support certain elements:
+- Center-aligning images
+- Specifying image width
+- Controlling certain layout elements
+- Hiding content using comments
+HTML provides these additional formatting capabilities. That's why GitHub supports certain HTML elements inside Markdown files. 
+When you write Markdown and HTML in a .md file, GitHub processes the content and converts the supported markup into HTML for display. -->
+
+<p align="center">
+<img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" alt="Amazon shopping" width="400">
+</p>
 
 During my teenage years, I was intrigued by the intentions and emotions of people. As an ambivert, I enjoyed both being with people and also being alone. However, solitude gave me an opportunity to introspect and explore questions that crossed my mind. This introspection and curiosity led me to read books on spirituality, through which I began finding answers and understanding about myself and life.
 
@@ -6,7 +19,7 @@ Everyday, we experience the world with dualities such as good and bad, pain and 
 
 Spirituality is knowing about one's true self that you are a supreme being. Original nature of human being is blissfulness which is permanent, however we get attached to materialistic things which are temporary and constantly changing. We discriminate things based on comfort, look and feel, its value which are called desires. The problem is not having desires but depending on them completely for our happiness makes us slaves because desires are never ending. 
 
-Through practices of meditation, introspection, and detachment we turn inwards and distinguish between what is permanent and what is temporary. In this process, we observe our thoughts and desires rather than being controlled by them.
+Through practices of yoga, meditation, introspection, and detachment we turn inwards and distinguish between what is permanent and what is temporary. In this process, we observe our thoughts and desires rather than being controlled by them.
 
 Meditation made me a calm and happy person. It made me think about life from a different perspective.
 
