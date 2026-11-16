@@ -1,4 +1,5 @@
 <h1 align="center">My spiritual journey</h1>
+
 <!-- ![Amazon shopping](https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png) -->
 
 <!-- HTML syntax is used below for aligning the image to the center as Markdown does not support certain elements:
