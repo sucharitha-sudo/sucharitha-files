@@ -1,12 +1,12 @@
 # Technical Writing Portfolio
 
-## About Me
+## Professional Work
 
 I am a Technical Writer with 5+ years of experience in technical writing and content development, specializing in creating clear, user-friendly, and structured documentation for software applications and technology platforms.
 
 My experience spans SaaS applications, cloud platforms, API documentation, chatbots, and AI assistants. I collaborate with technical teams and subject matter experts to understand complex technical concepts and transform them into easy-to-understand documentation.
 
-## Areas of Expertise
+### Areas of Expertise
 
 * **SaaS Documentation**: Developed and maintained end-user documentation for SaaS applications, covering product features, functionalities, updates, and enhancements.
 * **Cloud Platform Documentation**: Developed approximately 80 user manuals for a cloud platform, covering areas such as database management, networking, security and compliance, server configuration, software setup, and web hosting.
@@ -14,7 +14,7 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 * **Chatbot Documentation**: Created a user guide and video script explaining how to build a chatbot using Google's Dialogflow platform.
 * **AI Assistants**: Added and managed support-related content in the Alltius platform to help AI assistants respond to user queries.
 
-## Documentation Experience
+### Documentation Experience
 
 * User Manuals
 * Release Notes
@@ -26,7 +26,7 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 * Capability Statements
 * Case Studies
 
-## Technical Skills & Tools
+### Technical Skills & Tools
 
 * **Office Tools**: MS Office (Word, PowerPoint, and Excel)
 *	**Video Editing Tools**: Microsoft Clipchamp, SupaDemo, and Loom
@@ -38,3 +38,14 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 *	**CRM and Marketing Automation**: HubSpot
 
 This repository showcases my technical writing experience, documentation samples, and selected projects across different technology domains.
+
+## Personal Writing
+
+Apart from technical writing, I enjoy writing personal articles on experiences, observations, spirituality, and music.
+
+### Articles
+
+* Management in Hospitals
+* Trip to Goa
+* My spiritual journey
+* The Power of Music
