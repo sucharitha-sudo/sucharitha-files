@@ -8,12 +8,11 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 
 ## Areas of Expertise
 
-* **SaaS Documentation**: Developing and maintaining end-user documentation for software applications.
+* **SaaS Documentation**: Developing and maintaining end-user documentation for SaaS applications, covering product features, functionalities, updates, and enhancements.
 * **Cloud Platform Documentation**: Creating user manuals for cloud infrastructure and services.
 * **API Documentation**: Documenting APIs using client-provided Postman collections and technical specifications.
 * **Chatbot Documentation**: Created a user guide and video script explaining how to build a chatbot using Google's Dialogflow platform.
 * **AI Assistants**: Added and managed support-related content in the Alltius platform to help AI assistants respond to user queries.
-* **Product Documentation**: Creating documentation for software features, functionalities, and product updates.
 
 ## Documentation Experience
 
