@@ -9,6 +9,8 @@
 HTML provides these additional formatting capabilities. That's why GitHub supports certain HTML elements inside Markdown files. 
 When you write Markdown and HTML in a .md file, GitHub processes the content and converts the supported markup into HTML for display. -->
 
+![Spiritual journey](spiritual journey.png)
+
 <p align="center">
 <img src="spiritual journey.png" alt="Spiritual journey" width="400">
 </p>
