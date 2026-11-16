@@ -11,7 +11,8 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 * **SaaS Documentation**: Developing and maintaining end-user documentation for software applications.
 * **Cloud Platform Documentation**: Creating user manuals for cloud infrastructure and services.
 * **API Documentation**: Documenting APIs using client-provided Postman collections and technical specifications.
-* **Chatbots and AI Assistants**: Technical and user-facing content related to chatbot and AI assistant solutions.
+* **Chatbot Documentation**: Created a user guide and video script explaining how to build a chatbot using Google's Dialogflow platform.
+* **AI Assistants**: Added and managed support-related content in the Alltius platform to help AI assistants respond to user queries.
 * **Product Documentation**: Creating documentation for software features, functionalities, and product updates.
 
 ## Documentation Experience
