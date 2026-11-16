@@ -8,15 +8,14 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 
 ## Areas of Expertise
 
-* **SaaS Documentation**: Developing and maintaining end-user documentation for SaaS applications, covering product features, functionalities, updates, and enhancements.
-* **Cloud Platform Documentation**: Creating user manuals for cloud infrastructure and services.
-* **API Documentation**: Documenting APIs using client-provided Postman collections and technical specifications.
+* **SaaS Documentation**: Developed and maintained end-user documentation for SaaS applications, covering product features, functionalities, updates, and enhancements.
+* **Cloud Platform Documentation**: Developed approximately 80 user manuals for a cloud platform, covering areas such as database management, networking, security and compliance, server configuration, software setup, and web hosting.
+* **API Documentation**: Documented APIs using client-provided Postman collections and technical specifications.
 * **Chatbot Documentation**: Created a user guide and video script explaining how to build a chatbot using Google's Dialogflow platform.
 * **AI Assistants**: Added and managed support-related content in the Alltius platform to help AI assistants respond to user queries.
 
 ## Documentation Experience
 
-In my current role, I develop, maintain, and publish end-user documentation for software applications, including:
 * User Manuals
 * Release Notes
 * Technical Guides
@@ -39,6 +38,3 @@ In my current role, I develop, maintain, and publish end-user documentation for 
 *	**CRM and Marketing Automation**: HubSpot
 
 This repository showcases my technical writing experience, documentation samples, and selected projects across different technology domains.
-
-
-I also have experience developing approximately 80 user manuals for a cloud platform, covering areas such as database management, networking, security and compliance, server configuration, software setup, and web hosting.
