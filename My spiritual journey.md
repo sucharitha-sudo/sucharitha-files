@@ -9,10 +9,9 @@
 HTML provides these additional formatting capabilities. That's why GitHub supports certain HTML elements inside Markdown files. 
 When you write Markdown and HTML in a .md file, GitHub processes the content and converts the supported markup into HTML for display. -->
 
-![Spiritual journey](spiritual journey.png)
 
 <p align="center">
-<img src="spiritual journey.png" alt="Spiritual journey" width="400">
+<img src="spiritual journey.png" alt="Spiritual journey" width="600">
 </p>
 
 During my teenage years, I was intrigued by the intentions and emotions of people. As an ambivert, I enjoyed both being with people and also being alone. However, solitude gave me an opportunity to introspect and explore questions that crossed my mind. This introspection and curiosity led me to read books on spirituality, through which I began finding answers and understanding about myself and life.
