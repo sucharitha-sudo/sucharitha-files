@@ -28,14 +28,15 @@ In my current role, I develop, maintain, and publish end-user documentation for 
 * Case Studies
 
 ## Technical Skills & Tools
-* Office Tools: MS Office (Word, PowerPoint, and Excel)
-*	Video Editing Tools: Microsoft Clipchamp, SupaDemo, and Loom
-*	Design/ Graphic Tools: Canva
-*	Documentation and Authoring Tools: Confluence, Visual Studio Code, Sphinx, Oxygen XML, HTML, XML, and Markdown
-*	Collaboration and Tracking Tools: Jira and GitHub
-*	Diagramming and Visualization Tools: Draw.io and Snagit
-*	AI Assistant Platform: Alltius
-*	CRM and Marketing Automation: HubSpot
+
+* **Office Tools**: MS Office (Word, PowerPoint, and Excel)
+*	**Video Editing Tools**: Microsoft Clipchamp, SupaDemo, and Loom
+*	**Design/Graphic Tools**: Canva
+*	**Documentation and Authoring Tools**: Confluence, Visual Studio Code, Sphinx, Oxygen XML, HTML, XML, and Markdown
+*	**Collaboration and Tracking Tools**: Jira and GitHub
+*	**Diagramming and Visualization Tools**: Draw.io and Snagit
+*	**AI Assistant Platform**: Alltius
+*	**CRM and Marketing Automation**: HubSpot
 
 This repository showcases my technical writing experience, documentation samples, and selected projects across different technology domains.
 
