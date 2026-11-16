@@ -9,7 +9,7 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 ## Areas of Expertise
 
 * **SaaS Documentation**: Developing and maintaining end-user documentation for software applications.
-* **Cloud Platform Documentation**: Creating user manuals and technical guides for cloud infrastructure and services.
+* **Cloud Platform Documentation**: Creating user manuals for cloud infrastructure and services.
 * **API Documentation**: Documenting APIs using client-provided Postman collections and technical specifications.
 * **Chatbots and AI Assistants**: Technical and user-facing content related to chatbot and AI assistant solutions.
 * **Product Documentation**: Creating documentation for software features, functionalities, and product updates.
@@ -33,7 +33,7 @@ In my current role, I develop, maintain, and publish end-user documentation for 
 *	Design/ Graphic Tools: Canva
 *	Documentation and Authoring Tools: Confluence, Visual Studio Code, Sphinx, Oxygen XML, HTML, XML, and Markdown
 *	Collaboration and Tracking Tools: Jira and GitHub
-*	Diagramming and Visualization Tools:  Draw.io and Snagit
+*	Diagramming and Visualization Tools: Draw.io and Snagit
 *	AI Assistant Platform: Alltius
 *	CRM and Marketing Automation: HubSpot
 
