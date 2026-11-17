@@ -1,6 +1,12 @@
 # Writing Portfolio
 
-## Professional Work
+Welcome to my writing portfolio. This repository showcases my technical writing work, personal articles, and achievements.
+
+## Resume
+
+[View My Resume](https://drive.google.com/file/d/1eFD6smVYIWrpgsgc2u8E-lM5QFjWxnUU/view?usp=drive_link)
+
+## Technical Writing
 
 I am a Technical Writer with 5+ years of experience in technical writing and content development, specializing in creating clear, user-friendly, and structured documentation for software applications and technology platforms.
 
