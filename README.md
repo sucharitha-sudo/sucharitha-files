@@ -8,7 +8,7 @@ My experience spans SaaS applications, cloud platforms, API documentation, chatb
 
 ### Areas of Expertise
 
-* **[API Documentation](./API Documentation.md)**: Documented APIs using client-provided Postman collections and technical specifications.
+* **[API Documentation](./API%20Documentation.md)**: Documented APIs using client-provided Postman collections and technical specifications.
 * **Chatbot Documentation**: Created a user guide and video script explaining how to build a chatbot using Google's Dialogflow platform.
 * **Cloud Platform Documentation**: Developed approximately 80 user manuals for a cloud platform, covering areas such as database management, networking, security and compliance, server configuration, software setup, and web hosting.
 * **SaaS Documentation**: Developed and maintained end-user documentation for SaaS applications, covering product features, functionalities, updates, and enhancements.
