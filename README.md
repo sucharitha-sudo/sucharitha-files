@@ -4,7 +4,7 @@ Welcome to my writing portfolio. This repository showcases my technical writing 
 
 ## Resume
 
-[View My Resume](https://drive.google.com/file/d/1eFD6smVYIWrpgsgc2u8E-lM5QFjWxnUU/view?usp=drive_link)
+[View My Resume](https://drive.google.com/file/d/1i4gbsWCle_MHOSiFrZriOibdngWaj5fb/view?usp=drive_link)
 
 ## Technical Writing
 
