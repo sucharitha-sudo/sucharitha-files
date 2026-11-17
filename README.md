@@ -48,4 +48,4 @@ Apart from technical writing, I enjoy writing personal articles on experiences, 
 * Management in hospitals
 * Trip to Goa
 * My spiritual journey
-* The Power of Music
+* Painting- Visual art form
