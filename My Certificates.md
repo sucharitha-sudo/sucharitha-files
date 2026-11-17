@@ -1,4 +1,4 @@
 ## Certifications
 
-[API Documentation Certificate](API Documentation Certificate.pdf)
+[API Documentation Certificate](./API Documentation Certificate.pdf)
 
