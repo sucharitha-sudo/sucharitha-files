@@ -48,5 +48,5 @@ Apart from technical writing, I enjoy writing personal articles on experiences, 
 * Management in hospitals
 * My spiritual journey
 * Painting- Visual art form
-* The Power of Music
+* The Power of Music- is done using AI
 * Trip to Goa
