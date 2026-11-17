@@ -50,3 +50,8 @@ Apart from technical writing, I enjoy writing personal articles on experiences, 
 * Painting- Visual art form
 * The Power of Music- is done using AI
 * Trip to Goa
+
+## Certifications
+
+[API Documentation Certificate](My Certifications.md)
+## Awards
