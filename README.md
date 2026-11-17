@@ -1,6 +1,6 @@
 # Writing Portfolio
 
-Welcome to my writing portfolio. This repository showcases my technical writing work, personal articles, and achievements.
+This portfolio showcases my technical writing experience, documentation samples, and professional achievements. It also features my personal writing on experiences, observations, spirituality, and music.
 
 ## Resume
 
