@@ -53,5 +53,6 @@ Apart from technical writing, I enjoy writing personal articles on experiences, 
 
 ## Certifications
 
-[API Documentation Certificate](My Certifications.md)
+[API Documentation Certificate](./API%20Documentation%20Certificate.pdf)
+
 ## Awards
