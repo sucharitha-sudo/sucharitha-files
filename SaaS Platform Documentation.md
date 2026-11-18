@@ -28,4 +28,4 @@ Tools & Technologies:
 * Project Management & Issue Tracking: **Jira**
 * CRM & Marketing Automation: **HubSpot**
 
-To learn more about the platform I contributed to documenting, visit: [Matchbook AI](https://www.matchbookai.com/), [Product Documentation](https://docs.matchbookai.com/xdm/)
+To learn more about the platform I contributed to documenting, visit: [Matchbook AI](https://www.matchbookai.com/), [Product Documentation](https://docs.matchbookai.com/xdm/), [Case studies](https://www.matchbookai.com/case-studies/)
