@@ -49,11 +49,11 @@ Apart from technical writing, I enjoy writing personal articles on experiences, 
 
 ### Articles
 
-* Management in hospitals
-* My spiritual journey
-* Painting- Visual art form
-* The Power of Music- is done using AI
-* Trip to Goa
+* [Management in hospitals](./Management%20in%20hospitals.md)
+* [My spiritual journey](./My%20spiritual%20journey.md)
+* [Painting- Visual art form](Painting-%20Visual%20art%20form.md)
+* [The Power of Music](The%20Power%20of%20Music.pdf)- is done using AI
+* [Trip to Goa](Trip%20to%20Goa.md)
 
 ## Certifications
 
