@@ -51,7 +51,7 @@ Apart from technical writing, I enjoy writing personal articles on experiences, 
 
 * [Management in hospitals](https://littleadventures24.blogspot.com/2024/02/management-in-hospitals.html)
 * [My spiritual journey](./My%20spiritual%20journey.md)
-* [Painting- Visual art form](Painting-%20Visual%20art%20form.pdf)
+* [Painting- Visual art form](Painting-Visual%20art%20form.pdf)
 * [The Power of Music](The%20Power%20of%20Music.pdf)- is done using AI
 * [Trip to Goa](https://littleadventures24.blogspot.com/2024/02/trip-to-goa.html)
 
