@@ -29,3 +29,5 @@ Tools & Technologies:
 * CRM & Marketing Automation: **HubSpot**
 
 To learn more about the platform I contributed to documenting, visit: [Matchbook AI](https://www.matchbookai.com/), [Product Documentation](https://docs.matchbookai.com/xdm/), [Case studies](https://www.matchbookai.com/case-studies/)
+
+**Note**: Some of my documentation is internal to the company and cannot be shared publicly due to confidentiality restrictions.
